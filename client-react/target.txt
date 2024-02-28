@@ -1,0 +1,6 @@
+make proxy connections
+make app type safe
+login registration api
+add and download button for the Qr code
+make ui better
+know how to move it in production
